@@ -9,6 +9,14 @@ int main() {
         i = i + 1;
     }
     cout << endl;
+
+    int j = 1;
+    while(j <= 100) {
+        cout << j << " ";
+        ++j;
+    }
+    cout << endl;
+
     return 0;
 }
 

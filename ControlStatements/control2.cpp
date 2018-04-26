@@ -24,8 +24,7 @@ int main() {
 - && means and.
 - || means or.
 - The braces in this example could have been omitted.
-- Operator precedence order is arithmetic, comparison, logical.
-Thus, no extra parenthesis are needed.
+- Operator precedence order is arithmetic, comparison, logical. Thus, no extra parenthesis are needed.
 - Be wary of writing
 
 if (a = b)

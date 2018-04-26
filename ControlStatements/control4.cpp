@@ -13,3 +13,18 @@ int main() {
 
     return 0;
 }
+
+/* Notes:
+
+- A "do" loop repeats 1 or more times. A "while" loop repeats 0 or more times.
+- The general form of the "do" loop is
+- If there is only one statement in the block, then the braces are optional.
+
+  do
+  {
+    ...;
+    ...;
+  }
+  while (...);
+
+*/
